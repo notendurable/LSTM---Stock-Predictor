@@ -9,4 +9,4 @@ Goal is to know how we can use historical stock data as a foundation to make inf
 Stock data was pulled from Yahoo Finance, preparing and structuring this data to suit our model's needs. From there I applied an LSTM neural network to capture the sequential data. 
 Data Science techniques that was used are - Data Ingestion, Data Preparation, Model Building and Evaluation. 
 
-Stock in prediction here is NVIDIA - NVDA
+Stock in prediction here is **NVIDIA - NVDA**
