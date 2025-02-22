@@ -1,4 +1,4 @@
-# LSTM-Model
+# LSTM 
 Long-Short Term Model to Predict Stock prices over the next 30 days
 
 LSTM is a neural network under the fields of deep learning that analysis and learns from the past patterns and sequences over time to predict the future events. 
